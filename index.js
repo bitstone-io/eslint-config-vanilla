@@ -1,5 +1,8 @@
 module.exports = {
   parser: "babel-eslint",
+  plugins: [
+    "babel",
+  ],
   extends: "airbnb",
   env: {
     browser: true,
