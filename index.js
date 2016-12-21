@@ -8,7 +8,7 @@ module.exports = {
     quotes: ["error", "double"],
     "no-plusplus": "off",
     "no-implicit-coercion": ["error", { boolean: true }],
-    "no-invalid-this": "error",
+    "babel/no-invalid-this": "error",
     "no-param-reassign": ["error", { props: false }],
     "no-else-return": "off",
     "no-cond-assign": ["error", "except-parens"],
