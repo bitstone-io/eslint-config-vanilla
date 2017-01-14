@@ -8,5 +8,6 @@ module.exports = {
     "react/jsx-filename-extension": ["error", { extensions: [".js"] }],
     "react/prefer-stateless-function": "off",
     "react/forbid-prop-types": "off",
+    "react/require-default-props": "off",
   },
 };
