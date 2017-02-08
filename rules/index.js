@@ -7,6 +7,9 @@ module.exports = {
   env: {
     browser: true,
   },
+  globals: {
+    Zone: true,
+  },
   rules: {
     quotes: ["error", "double"],
     "no-plusplus": "off",
