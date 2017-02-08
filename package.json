@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-vanilla",
-  "version": "5.0.0",
+  "version": "5.1.0",
   "scripts": {
     "test": "make lint"
   },
